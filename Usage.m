@@ -5,3 +5,6 @@
 
 //Preloading a sound (does NOT play it)
 [SoundEffectManager preloadSoundNamed:@"MyOtherSoundEffect.aiff"];
+
+//Vibrates the iPhone
+[SoundEffectManager playVibrateSound];

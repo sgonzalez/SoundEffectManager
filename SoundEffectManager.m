@@ -75,4 +75,8 @@ static SystemSoundID GetSound( NSString *name ) {
 	(void) GetSound(soundName);
 }
 
++ (void)playVibrateSound {
+	AudioServicesPlaySystemSound(kSystemSoundID_Vibrate);
+}
+
 @end

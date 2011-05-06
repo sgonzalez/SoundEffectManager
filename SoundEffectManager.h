@@ -39,4 +39,5 @@
 }
 + (void)preloadSoundNamed:(NSString *)soundName;
 + (void)playSoundNamed:(NSString *)soundName;
++ (void)playVibrateSound;
 @end

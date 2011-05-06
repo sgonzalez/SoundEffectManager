@@ -1,4 +1,4 @@
-SoundEffectManager is a simple singleton class that has the ability to open, load, cache, and play sounds. We are expanding its capabilities so keep an eye out for updates! Note that you must link against the AudioToolbox framework.
+SoundEffectManager is a simple singleton class that has the ability to open, load, cache, and play sounds. You can even vibrate the iPhone! Note that you must link against the AudioToolbox framework.
 
 Usage.m is a file showing the usage of this class, this is NOT a proper class implementation.
 
